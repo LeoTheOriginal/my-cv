@@ -15,12 +15,11 @@ As a second-year student of Applied Computer Science at AGH University of Scienc
 
 ## Experience
 ### Tutor
-- **Łukasz Jarosiński's School for Matriculation Students**
+- **Szkoła maturzystów Łukasza Jarosińskiego**
 - October 2024--present
 - Mathematics and Physics
 
 ### Mechanic's Assistant
-- Dates and location unspecified
 
 ## Education
 ### II Liceum Ogólnokształcące im. Jana III Sobieskiego
