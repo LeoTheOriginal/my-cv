@@ -5,8 +5,6 @@
 - **Phone**: 668-407-667
 - **Email**: [dpiotrowski393939@gmail.com](mailto:dpiotrowski393939@gmail.com)
 
-![Photo](CV_pic.png)
-
 ## Summary
 As a second-year student of Applied Computer Science at AGH University of Science and Technology in Kraków, I possess fluent English and communicative German language skills. My commitment to continuous qualification development and openness to new professional challenges are deeply ingrained in my personality. Working in a team and collaborating with others are as important to me as developing interpersonal skills, which further highlights my high personal culture and natural ease in making connections.
 
