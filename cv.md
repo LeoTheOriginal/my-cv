@@ -26,7 +26,7 @@ As a second-year student of Applied Computer Science at AGH University of Scienc
 - Kraków
 - September 2019--May 2022
 - Mathematics-Physics-Chemistry class
-- AGH Merit Scholarship, winner of the Golden Index competition at PK, finalist in the UJ Chemistry Competition
+- AGH Merit Scholarship "Prymusi AGH", winner of the Golden Index competition at PK, finalist in the UJ Chemistry Competition
 
 ### AGH University of Science and Technology
 - Applied Computer Science
