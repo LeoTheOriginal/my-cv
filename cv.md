@@ -16,7 +16,7 @@ As a second-year student of Applied Computer Science at AGH University of Scienc
 ## Experience
 ### Tutor
 - **Szkoła maturzystów Łukasza Jarosińskiego**
-- October 2024--present
+- October 2023--present
 - Mathematics and Physics
 
 ### Mechanic's Assistant
