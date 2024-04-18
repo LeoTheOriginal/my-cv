@@ -1,19 +1,34 @@
 # Dawid Piotrowski
 
-## O mnie
-Jako student drugiego roku Informatyki Stosowanej na Akademii Górniczo-Hutniczej w Krakowie, posiadam biegłą znajomość języka angielskiego oraz komunikatywną w języku niemieckim.
+- **Phone**: 668-407-667
+- **Email**: [dpiotrowski393939@gmail.com](mailto:dpiotrowski393939@gmail.com)
 
-## Umiejętności
-- **Języki programowania**: C, C++, MATLAB, Python3, Java, Scala3
-- **Języki**: Angielski (B2+/C1), Niemiecki (A2)
+![Photo](CV_pic.png)
 
-## Doświadczenie
-### Korepetytor - Szkoła maturzystów Łukasza Jarosińskiego
-- Nauczanie matematyki i fizyki (Październik 2024 – obecnie)
+## Summary
+As a second-year student of Applied Computer Science at AGH University of Science and Technology in Kraków, I possess fluent English and communicative German language skills. My commitment to continuous qualification development and openness to new professional challenges are deeply ingrained in my personality. Working in a team and collaborating with others are as important to me as developing interpersonal skills, which further highlights my high personal culture and natural ease in making connections.
 
-## Edukacja
-- **2019-2022** - II Liceum Ogólnokształcące im. Jana III Sobieskiego, Kraków
-- **2022-Obecnie** - Akademia Górniczo-Hutnicza w Krakowie, Informatyka Stosowana
+## Skills
+- **English**: B2+/C1
+- **German**: A2
+- **Programming Skills**: C, C++, MATLAB, currently developing skills in Python3, Java, Scala3
 
-## Linki
-- [GitHub](https://github.com/LeoTheOriginal)
+## Experience
+### Tutor
+- **Łukasz Jarosiński's School for Matriculation Students**
+- October 2024--present
+- Mathematics and Physics
+
+### Mechanic's Assistant
+- Dates and location unspecified
+
+## Education
+### II Liceum Ogólnokształcące im. Jana III Sobieskiego
+- Kraków
+- September 2019--May 2022
+- Mathematics-Physics-Chemistry class
+- AGH Merit Scholarship, winner of the Golden Index competition at PK, finalist in the UJ Chemistry Competition
+
+### AGH University of Science and Technology
+- Applied Computer Science
+- September 2022--present
