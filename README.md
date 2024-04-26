@@ -18,7 +18,7 @@ I am an active student of Applied Computer Science at AGH University of Science 
 **AGH University of Science and Technology**  
 _Bachelor of Engineering in Applied Computer Science_  
 Expected Feb 2026  
-Krakow, Poland  
+Cracow, Poland  
 
 Relevant Coursework:
 - Advanced Data Structures and Algorithmic Analysis
@@ -32,7 +32,7 @@ Relevant Coursework:
 **II Liceum Ogólnokształcące im. Jana III Sobieskiego**  
 _Mathematics-Physics-Chemistry Class_  
 September 2019 – May 2022  
-Krakow, Poland  
+Cracow, Poland  
 
 - AGH Primus Scholarship.
 - Laureate of the Golden Index competition at Cracow University of Technology.
