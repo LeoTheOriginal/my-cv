@@ -5,6 +5,7 @@
 - 📞 668 407 667
 - 📧 [dpiotrowski393939@gmail.com](mailto:dpiotrowski393939@gmail.com)
 - 🔗 [GitHub](https://github.com/LeoTheOriginal)
+- 🔗 [LinkedIn](https://www.linkedin.com)
 - [Download my CV (PDF)](https://github.com/LeoTheOriginal/my-cv/raw/main/CV.pdf)
 
 This repository contains my professional curriculum vitae along with additional resources and projects related to my career in computer science.
@@ -70,17 +71,10 @@ Cracow, Poland
 - Optimized graphical rendering and game logic for efficient performance on modern computing hardware, ensuring a smooth player experience.
 
 ## Technical Skills
-- **Programming Languages**: Python3, Scala3, C++ (C++17/20), C, MATLAB
-- **Tools and Technologies**: Git, MATLAB
-
-## Languages
-- English (B2+/C1), German (A2)
-
-## Links
-- [LinkedIn](https://www.linkedin.com)
-- [GitHub](https://github.com/LeoTheOriginal)
-
-## Contact
-Please contact me via email: [dpiotrowski393939@gmail.com](mailto:dpiotrowski393939@gmail.com)
+**Languages**: Python3, Scala3, C++ (C++17/20), C, MATLAB, Bash, PowerShell  
+**Tools and Technologies**: Git, MATLAB  
+**Frameworks and Libraries**: SFML, wxWidgets (used for GUI development)  
+**Software and Platforms**: Git  
+**Languages and Protocols**: English (B2+/C1), German (A2)
 
 Thank you for your interest in my CV!
