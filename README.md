@@ -11,13 +11,12 @@ Jestem aktywnym studentem informatyki stosowanej na AGH w Krakowie, gdzie koncen
 ## Edukacja
 
 **Akademia Górniczo-Hutnicza**  
-_Inżynier Informatyki Stosowanej_  
-Do ukończenia w lutym 2026  
+_Inżynier Informatyki Stosowanej_ 
 Kraków, Polska  
 
 Zajęcia obejmują:
 - Zaawansowane Struktury Danych i Analiza Algorytmów
-- Programowanie Systemowe w C
+- Programowanie Proceduralne w C
 - Metody Statystyczne i Ich Zastosowania w MATLAB
 - Programowanie Obiektowe w C++
 - Podstawy Programowania Funkcyjnego w Scala
@@ -29,9 +28,9 @@ _Klasa Matematyczno-Fizyczno-Chemiczna_
 Wrzesień 2019 – Maj 2022  
 Kraków, Polska  
 
-- Stypendium Prymusa AGH, wyróżnienie za wybitne osiągnięcia akademickie.
-- Laureat konkursu o Złoty indeks Politechniki Krakowskiej, nagroda za szczególne umiejętności w dziedzinie nauk ścisłych.
-- Finalista konkursu chemicznego Uniwersytetu Jagiellońskiego, uznanie za osiągnięcia w dziedzinie chemii.
+- Stypendium Prymusa AGH.
+- Laureat konkursu o Złoty indeks Politechniki Krakowskiej.
+- Finalista konkursu chemicznego Uniwersytetu Jagiellońskiego.
 
 ## Doświadczenie zawodowe
 - **Study Research Group Bit** – Stażysta (2023 - obecnie)
