@@ -37,13 +37,37 @@ Krakow, Poland
 - Laureate of the Golden Index competition at Cracow University of Technology.
 - Finalist in the Chemistry Competition at the Jagiellonian University.
 
-## Professional Experience
-- **Study Research Group Bit** – Software Engineer Intern (2023 - Present)
-- **Szkoła Maturzystów Łukasza Jarosińskiego** – Tutor in Mathematics and Physics (2023 - Present)
+## Experience
+
+**Study Research Group Bit**  
+_Software Engineer Intern_  
+Nov 2023 – Present  
+Cracow, Poland  
+
+- Participated in advanced software engineering projects focusing on modern web technologies and artificial intelligence, enhancing practical coding skills.
+- Engaged in collaborative development of algorithms designed to solve complex problems, which improved problem-solving techniques and analytical thinking.
+- Contributed to peer-led workshops on introductory and advanced topics in computer science, fostering a community of learning and skill development.
+
+**Szkoła Maturzystów Łukasza Jarosińskiego**  
+_Tutor in Mathematics and Physics_  
+Sep 2023 – Present  
+Cracow, Poland  
+
+- Developed and conducted tutoring sessions in mathematics and physics, focusing on exam preparation and problem-solving skills.
+- Created personalized learning plans for students, resulting in improved understanding of complex topics and higher exam scores.
+- Utilized a variety of teaching tools and techniques to enhance student engagement and facilitate active learning.
 
 ## Projects
-- **Advanced Charting Interface** – A sophisticated charting application using C++ and wxWidgets.
-- **Retro Sokoban Clone** – A clone of the classic puzzle game Sokoban implemented in C++ using SFML.
+
+**Advanced Charting Interface | C++, wxWidgets**  
+- Developed a sophisticated charting application using C++ and the wxWidgets library, allowing for dynamic graphical representation of mathematical functions.
+- Implemented a configuration class that supports extensive customization of chart parameters and interface settings, enhancing user interactivity and flexibility.
+- Engineered GUI components using wxWidgets, including custom dialogs and settings panels, to provide an intuitive user experience and facilitate effective data visualization.
+
+**Retro Sokoban Clone | C++ with SFML**  
+- Recreated the classic puzzle game Sokoban, implementing it in C++ to enhance gameplay with a focus on maintaining the nostalgic feel of the original game using the SFML library.
+- Incorporated modern game design elements while respecting the retro aesthetics and mechanics that define the Sokoban experience.
+- Optimized graphical rendering and game logic for efficient performance on modern computing hardware, ensuring a smooth player experience.
 
 ## Technical Skills
 - **Programming Languages**: Python3, Scala3, C++ (C++17/20), C, MATLAB
