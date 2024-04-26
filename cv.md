@@ -1,5 +1,7 @@
 # Dawid Piotrowski
 
+<img src="CV_pic.png" alt="Profile Picture" width="250" height="300">
+
 - 📞 668 407 667
 - 📧 [dpiotrowski393939@gmail.com](mailto:dpiotrowski393939@gmail.com)
 - 🔗 [GitHub](https://github.com/LeoTheOriginal)
