@@ -1,7 +1,7 @@
 # Dawid Piotrowski
 
 - [Zobacz moje CV online (Markdown)](./cv.md)
-- [Pobierz moje CV (PDF)](./CV.pdf)
+- [Pobierz moje CV (PDF)](https://github.com/LeoTheOriginal/my-cv/raw/main/CV.pdf)
 
 Repozytorium to zawiera moje życiorys zawodowy oraz dodatkowe zasoby i projekty związane z moją karierą programistyczną.
 
