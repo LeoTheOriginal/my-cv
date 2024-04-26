@@ -6,10 +6,32 @@
 Repozytorium to zawiera moje życiorys zawodowy oraz dodatkowe zasoby i projekty związane z moją karierą programistyczną.
 
 ## O mnie
-Jestem studentem informatyki stosowanej na AGH w Krakowie, specjalizującym się w projektowaniu i implementacji zaawansowanych systemów informatycznych.
+Jestem aktywnym studentem informatyki stosowanej na AGH w Krakowie, gdzie koncentruję się na projektowaniu i implementacji zaawansowanych systemów informatycznych. Charakteryzuje mnie silne zaangażowanie w życie akademickie oraz ciągłe poszukiwanie nowych wyzwań. Jestem otwarty na nowe doświadczenia, które poszerzają moje horyzonty technologiczne i rozwijają umiejętności interpersonalne. Z pasją podchodzę do nauki nowych technologii i metodologii, co czyni mnie elastycznym i adaptującym się do zmian w dynamicznie rozwijającej się branży IT.
 
 ## Edukacja
-- **AGH University of Science and Technology** – Engineer in Applied Computer Science (2022 - 2026)
+
+**Akademia Górniczo-Hutnicza**  
+_Inżynier Informatyki Stosowanej_  
+Do ukończenia w lutym 2026  
+Kraków, Polska  
+
+Zajęcia obejmują:
+- Zaawansowane Struktury Danych i Analiza Algorytmów
+- Programowanie Systemowe w C
+- Metody Statystyczne i Ich Zastosowania w MATLAB
+- Programowanie Obiektowe w C++
+- Podstawy Programowania Funkcyjnego w Scala
+- Administracja Systemem z Użyciem Bash i PowerShell
+- Grafika Komputerowa w C++
+
+**II Liceum Ogólnokształcące im. Jana III Sobieskiego**  
+_Klasa Matematyczno-Fizyczno-Chemiczna_  
+Wrzesień 2019 – Maj 2022  
+Kraków, Polska  
+
+- Stypendium Prymusa AGH, wyróżnienie za wybitne osiągnięcia akademickie.
+- Laureat konkursu o Złoty indeks Politechniki Krakowskiej, nagroda za szczególne umiejętności w dziedzinie nauk ścisłych.
+- Finalista konkursu chemicznego Uniwersytetu Jagiellońskiego, uznanie za osiągnięcia w dziedzinie chemii.
 
 ## Doświadczenie zawodowe
 - **Study Research Group Bit** – Stażysta (2023 - obecnie)
