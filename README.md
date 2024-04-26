@@ -1,57 +1,62 @@
 # Dawid Piotrowski
 
-- [Zobacz moje CV online (Markdown)](./cv.md)
-- [Pobierz moje CV (PDF)](https://github.com/LeoTheOriginal/my-cv/raw/main/CV.pdf)
+<img src="CV_pic.png" alt="Profile Picture" width="250" height="300">
 
-Repozytorium to zawiera moje życiorys zawodowy oraz dodatkowe zasoby i projekty związane z moją karierą programistyczną.
+- 📞 668 407 667
+- 📧 [dpiotrowski393939@gmail.com](mailto:dpiotrowski393939@gmail.com)
+- 🔗 [GitHub](https://github.com/LeoTheOriginal)
+- [Download my CV (PDF)](https://github.com/LeoTheOriginal/my-cv/raw/main/CV.pdf)
 
-## O mnie
-Jestem aktywnym studentem informatyki stosowanej na AGH w Krakowie, gdzie koncentruję się na projektowaniu i implementacji zaawansowanych systemów informatycznych. Charakteryzuje mnie silne zaangażowanie w życie akademickie oraz ciągłe poszukiwanie nowych wyzwań. Jestem otwarty na nowe doświadczenia, które poszerzają moje horyzonty technologiczne i rozwijają umiejętności interpersonalne. Z pasją podchodzę do nauki nowych technologii i metodologii, co czyni mnie elastycznym i adaptującym się do zmian w dynamicznie rozwijającej się branży IT.
+This repository contains my professional curriculum vitae along with additional resources and projects related to my career in computer science.
 
-## Edukacja
+## About Me
+I am an active student of Applied Computer Science at AGH University of Science and Technology in Krakow, focusing on the design and implementation of advanced information systems. I am known for my strong commitment to academic life and my constant search for new challenges. I am open to new experiences that broaden my technological horizons and enhance my interpersonal skills. I passionately pursue learning new technologies and methodologies, making me adaptable and responsive to changes in the rapidly evolving IT industry.
 
-**Akademia Górniczo-Hutnicza**  
-_Inżynier Informatyki Stosowanej_ 
-Kraków, Polska  
+## Education
 
-Zajęcia obejmują:
-- Zaawansowane Struktury Danych i Analiza Algorytmów
-- Programowanie Proceduralne w C
-- Metody Statystyczne i Ich Zastosowania w MATLAB
-- Programowanie Obiektowe w C++
-- Podstawy Programowania Funkcyjnego w Scala
-- Administracja Systemem z Użyciem Bash i PowerShell
-- Grafika Komputerowa w C++
+**AGH University of Science and Technology**  
+_Bachelor of Engineering in Applied Computer Science_  
+Expected Feb 2026  
+Krakow, Poland  
+
+Relevant Coursework:
+- Advanced Data Structures and Algorithmic Analysis
+- System Programming with C
+- Statistical Methods and Applications in MATLAB
+- Object-Oriented Programming with C++
+- Fundamentals of Functional Programming in Scala
+- System Administration with Bash and PowerShell
+- Graphical Computing in C++
 
 **II Liceum Ogólnokształcące im. Jana III Sobieskiego**  
-_Klasa Matematyczno-Fizyczno-Chemiczna_  
-Wrzesień 2019 – Maj 2022  
-Kraków, Polska  
+_Mathematics-Physics-Chemistry Class_  
+September 2019 – May 2022  
+Krakow, Poland  
 
-- Stypendium Prymusa AGH.
-- Laureat konkursu o Złoty indeks Politechniki Krakowskiej.
-- Finalista konkursu chemicznego Uniwersytetu Jagiellońskiego.
+- AGH Primus Scholarship.
+- Laureate of the Golden Index competition at Cracow University of Technology.
+- Finalist in the Chemistry Competition at the Jagiellonian University.
 
-## Doświadczenie zawodowe
-- **Study Research Group Bit** – Stażysta (2023 - obecnie)
-- **Szkoła Maturzystów Łukasza Jarosińskiego** – Tutor matematyki i fizyki (2023 - obecnie)
+## Professional Experience
+- **Study Research Group Bit** – Software Engineer Intern (2023 - Present)
+- **Szkoła Maturzystów Łukasza Jarosińskiego** – Tutor in Mathematics and Physics (2023 - Present)
 
-## Projekty
-- **Advanced Charting Interface** – Aplikacja do tworzenia zaawansowanych wykresów w C++ i wxWidgets.
-- **Retro Sokoban Clone** – Klon gry Sokoban w C++ z wykorzystaniem SFML.
+## Projects
+- **Advanced Charting Interface** – A sophisticated charting application using C++ and wxWidgets.
+- **Retro Sokoban Clone** – A clone of the classic puzzle game Sokoban implemented in C++ using SFML.
 
-## Umiejętności techniczne
-- **Języki programowania**: Python3, Scala3, C++17/20, C, MATLAB
-- **Narzędzia i technologie**: Git, MATLAB
+## Technical Skills
+- **Programming Languages**: Python3, Scala3, C++ (C++17/20), C, MATLAB
+- **Tools and Technologies**: Git, MATLAB
 
-## Języki
-- Angielski (B2+/C1), Niemiecki (A2)
+## Languages
+- English (B2+/C1), German (A2)
 
-## Linki
+## Links
 - [LinkedIn](https://www.linkedin.com)
 - [GitHub](https://github.com/LeoTheOriginal)
 
-## Kontakt
-Prosimy o kontakt przez email: [dpiotrowski393939@gmail.com](mailto:dpiotrowski393939@gmail.com)
+## Contact
+Please contact me via email: [dpiotrowski393939@gmail.com](mailto:dpiotrowski393939@gmail.com)
 
-Dziękuję za zainteresowanie moim CV!
+Thank you for your interest in my CV!
