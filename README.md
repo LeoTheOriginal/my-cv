@@ -1,4 +1,7 @@
-# CV Dawida Piotrowskiego
+# Dawid Piotrowski
+
+- [Zobacz moje CV online (Markdown)](./cv.md)
+- [Pobierz moje CV (PDF)](./CV.pdf)
 
 Repozytorium to zawiera moje życiorys zawodowy oraz dodatkowe zasoby i projekty związane z moją karierą programistyczną.
 
