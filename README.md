@@ -5,7 +5,7 @@
 - 📞 668 407 667
 - 📧 [dpiotrowski393939@gmail.com](mailto:dpiotrowski393939@gmail.com)
 - 🔗 [GitHub](https://github.com/LeoTheOriginal)
-- 🔗 [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/dawid-piotrowski-0831bb306/))
+- 🔗 [LinkedIn](https://www.linkedin.com/in/dawid-piotrowski-0831bb306/)
 - [Download my CV (PDF)](https://github.com/LeoTheOriginal/my-cv/raw/main/CV.pdf)
 
 This repository contains my professional curriculum vitae along with additional resources and projects related to my career in computer science.
